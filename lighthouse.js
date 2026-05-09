@@ -30,3 +30,8 @@ layers.forEach((layer, i) => {
 });
 
 });
+const featuresDiv = document.getElementById('pd');
+if (featuresDiv) {
+  featuresDiv.innerHTML = '<p>Zoom in for more info!</p>';
+}
+});
