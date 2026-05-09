@@ -25,7 +25,7 @@ p {
   width: 100%;
 }
 
-
+.map-overlay{
   position: absolute;
   bottom: 0;
   right: 0;
