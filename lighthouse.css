@@ -17,9 +17,7 @@ p {
   margin: 10px;
 }
 
-/**
-* Create a position for the map
-* on the page */
+
 #map {
   position: absolute;
   top: 0;
@@ -27,11 +25,7 @@ p {
   width: 100%;
 }
 
-/**
-* Set rules for how the map overlays
-* (information box and legend) will be displayed
-* on the page. */
-.map-overlay {
+
   position: absolute;
   bottom: 0;
   right: 0;
