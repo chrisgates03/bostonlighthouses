@@ -27,7 +27,7 @@ layers.forEach((layer, i) => {
   item.appendChild(key);
   item.appendChild(value);
   legend.appendChild(item);
-});
+
 
 });
 const featuresDiv = document.getElementById('pd');
