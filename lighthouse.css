@@ -37,7 +37,8 @@ p {
   z-index: 10;
 
 #features {
-  top: 0;
+  top: 20px;
+  right: 0;
   height: 100px;
   margin-top: 20px;
   width: 250px;
